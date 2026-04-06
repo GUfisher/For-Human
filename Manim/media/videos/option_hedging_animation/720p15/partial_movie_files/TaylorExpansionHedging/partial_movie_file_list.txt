@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/467951040_3173434492_2384039143.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_2844360058_2815726097.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_3194632269_1714266371.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_2318836581_2244640828.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_4121166681_2904689532.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_2318836581_3400804548.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_3937499714_3175857562.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_2318836581_2499787575.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/TaylorExpansionHedging/1701670785_2552855209_3350399810.mp4'

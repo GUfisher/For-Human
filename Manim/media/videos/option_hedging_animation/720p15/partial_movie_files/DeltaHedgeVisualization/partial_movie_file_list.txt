@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/DeltaHedgeVisualization/467951040_4117725002_4135919157.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/DeltaHedgeVisualization/1701670785_751935742_1040198502.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/DeltaHedgeVisualization/1701670785_673645559_702143653.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/DeltaHedgeVisualization/1701670785_2216654431_3107561556.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/DeltaHedgeVisualization/1701670785_2552855209_658202315.mp4'

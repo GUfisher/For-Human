@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/467951040_2907003592_1626014646.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/1701670785_4154518542_2545020959.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/1701670785_2834709167_455938207.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/1701670785_1746065576_3285054933.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/1701670785_2046914532_1823704539.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/1701670785_427277487_3613953081.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/1701670785_1807317321_3263095771.mp4'
+file 'file:/data/notebook_files/media/videos/option_hedging_animation/720p15/partial_movie_files/GammaRiskVisualization/1701670785_2552855209_2724656000.mp4'
